@@ -1,6 +1,5 @@
 fortune:
-  fallbackFortune: Your future is bright!
-  
+  fallbackFortune: Your future is not looking good!  
 logging:
   level:
     io:
