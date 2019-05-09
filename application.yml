@@ -1,5 +1,5 @@
 fortune:
-  fallbackFortune: Your future is looking bright!  
+  fallbackFortune: Your program is sick!  Shoot it and put it out of its memory.
 logging:
   level:
     io:
